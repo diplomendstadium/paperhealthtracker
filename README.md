@@ -2,7 +2,10 @@
 Der Gesundheitstracker auf Papier :green_heart:
 
 [Github](https://github.com/diplomendstadium/paperhealthtracker)
-[Lizenz: CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+
+Lizenz: [CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+
+PaperHealthTracker gibt es als mit festem Format als [PDF](https://github.com/diplomendstadium/paperhealthtracker/blob/main/PaperHealthTracker.pdf) und zum Bearbeiten als [LibreOffice Tabellenblatt](https://github.com/diplomendstadium/paperhealthtracker/blob/main/PaperHealthTracker.ods).
 
 ## Die Idee :see_no_evil: :hear_no_evil: :speak_no_evil:
 Das Tracken der eigenen Lebensweise motiviert viele, gesünder zu leben. Es gibt unzählige Apps, die uns helfen, Ernährung, Schlaf, etc. nachzuverfolgen. Aber unser Smartphone überwacht uns, alles ist voller Tracker. Viele Apps und die Betriebssysteme sammeln Daten über uns, diese werden wild weiterverkauft und wir zunehmend gläsern. Auch machen sich viele Sorgen, dass ständiges "am Handy rumfummeln" uns unkonzetriert macht und der Aufmerksamkeitsfähigkeit schadet.
@@ -29,4 +32,3 @@ Mehr Infomationen zum Thema z.B. [hier](https://www.youtube.com/watch?v=lMKxpbpk
 Einfach z.B. für die Nacht auf Freitag morgens in die Zeile hinter dem Tag die Einschlaf- und die Aufwachzeit notieren sowie die Differenz, also die Schlaflänge. Am Ende der Woche kann dann in der Zeile *Schnitt* die Durchschnittliche Schalfdauer ausgerechnet werden.
 
 Im Feld *Laune* kann man abends die Tagesstimmung festhalten, z.B. *krank*, *müde*, *froh* oder *gut*.
-
