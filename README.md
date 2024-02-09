@@ -1,9 +1,7 @@
 # PaperHealthTracker
 Der Gesundheitstracker auf Papier :green_heart:
 
-[Github](https://github.com/diplomendstadium/paperhealthtracker)
-
-Lizenz: [CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+[Link zum Projekt](https://github.com/diplomendstadium/paperhealthtracker) | Lizenz: [CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
 PaperHealthTracker gibt es als mit festem Format als [PDF](https://github.com/diplomendstadium/paperhealthtracker/blob/main/PaperHealthTracker.pdf) und zum Bearbeiten als [LibreOffice Tabellenblatt](https://github.com/diplomendstadium/paperhealthtracker/blob/main/PaperHealthTracker.ods).
 
@@ -24,7 +22,7 @@ In den Feldern *Zahnseide* und *Sport* kann dann per Strichliste festgehalten we
 Im Feld *Bingo* zählen wir am Ende der Woche die Kreuze in der Ernährungstabelle und schreiben hier das Ergebnis rein um über die WOchen vergleichen zu können ob wir es schaffen, uns immer vielfältiger zu ernähren.
 
 ### Ernährung :fork_and_knife:
-Eine vielfältige Darmflora ist u.a. für die Verdauung und Nährstoffaufnahme, das Immunsystem, das Wohlbefinden sowie der generellen Gesundheit wichtig. Daher nehmen wir durch probiotischen Lebensmittel für ein diverses Mikrobiom regemäßig neue Kulturen zu uns. Wir füttern außerdem unser Mikrobiom durch eine tägliche möglichst vielfältige Zufuhr von Ballaststoffen, bzw. präbiotischen Lebensmitteln. Um einen Überblick zu behalten, was wir diese Woche alles schon zu uns genommen haben, machen wir in der großen Tabelle in der Spalte unsere Woche ein Kreuz hinter allem, was wir gegessen haben.
+Eine vielfältige Darmflora ist u.a. für die Verdauung und Nährstoffaufnahme, das Immunsystem, das Wohlbefinden sowie der generellen Gesundheit wichtig. Daher nehmen wir durch probiotischen Lebensmittel für ein diverses Mikrobiom regemäßig neue Kulturen zu uns. Wir füttern außerdem unser Mikrobiom durch eine tägliche möglichst vielfältige Zufuhr von Ballaststoffen. Um einen Überblick zu behalten, was wir diese Woche alles schon zu uns genommen haben, machen wir in der großen Tabelle in der Spalte unsere Woche ein Kreuz hinter allem, was wir gegessen haben.
 
 Mehr Infomationen zum Thema z.B. [hier](https://www.youtube.com/watch?v=lMKxpbpkJUA).
 
