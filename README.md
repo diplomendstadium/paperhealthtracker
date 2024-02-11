@@ -1,11 +1,11 @@
 # PaperHealthTracker
 Der Gesundheitstracker auf Papier :green_heart:
 
-[Link](https://github.com/diplomendstadium/paperhealthtracker) um Projekt | Lizenz: [CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-
 PaperHealthTracker gibt es als zwei Druckvorlagen:
 - mit festem Format als [PDF](https://github.com/diplomendstadium/paperhealthtracker/blob/main/PaperHealthTracker.pdf) 
 - und zum Bearbeiten als [LibreOffice Tabellenblatt](https://github.com/diplomendstadium/paperhealthtracker/blob/main/PaperHealthTracker.ods).
+
+[Projekt auf GitHub](https://github.com/diplomendstadium/paperhealthtracker), [Lizenz: CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
 ## Die Idee :see_no_evil: :hear_no_evil: :speak_no_evil:
 Das Tracken der eigenen Lebensweise motiviert viele, gesünder zu leben. Es gibt unzählige Apps, die uns helfen, Ernährung, Schlaf, etc. nachzuverfolgen. Aber unser Smartphone überwacht uns, alles ist voller Tracker. Viele Apps und die Betriebssysteme sammeln Daten über uns, diese werden wild weiterverkauft und wir zunehmend gläsern. Auch machen sich viele Sorgen, dass ständiges "am Handy rumfummeln" uns unkonzetriert macht und der Aufmerksamkeitsfähigkeit schadet.
