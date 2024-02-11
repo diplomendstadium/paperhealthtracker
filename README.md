@@ -18,16 +18,16 @@ Einfach ausdrucken und dann z.B. wie folgt ausfüllen:
 ### Rahmendaten :information_source:
 Oben rechts einfach das Datum der Woche eintragen.
 
-Im Kasten darunter kann dann im Feld *Wage* entweder ein Gewicht, oder einfach eine Strichliste pro Wiegen eingetragen werden.
+Im Kasten darunter kann dann im Feld *Wage* entweder ein Gewicht, oder einfach eine Strichliste pro Wiegen eingetragen werden. Wer sein Gewicht gerne digital erfassen und auswerten möchte, kann sich ja zum Beispiel die App [trale](https://github.com/QuantumPhysique/trale) via [F-Droid](https://f-droid.org/de/packages/de.quantumphysique.trale/) anschauen.
 
 In den Feldern *Zahnseide* und *Sport* kann per Strichliste festgehalten werden, wie oft beides in der Woche passiert ist.
 
 Im Feld *Bingo* zählen wir am Ende der Woche die Kreuze in der Ernährungstabelle und schreiben hier das Ergebnis rein. So können wir über die Wochen vergleichen ob wir es schaffen, uns immer vielfältiger zu ernähren.
 
 ### Ernährung :fork_and_knife:
-Eine vielfältige Darmflora ist u.a. für die Verdauung und Nährstoffaufnahme, das Immunsystem, das Wohlbefinden sowie der generellen Gesundheit wichtig. Daher nehmen wir durch probiotische Lebensmittel für ein diverses Mikrobiom regemäßig neue Kulturen zu uns. Wir füttern außerdem unser Mikrobiom durch eine tägliche möglichst vielfältige Zufuhr von Ballaststoffen. Um einen Überblick zu behalten, was wir diese Woche alles schon zu uns genommen haben, machen wir in der großen Tabelle in der Spalte unsere Woche ein Kreuz hinter allem, was wir gegessen haben. Die Tabelle hat noch einige Leerzeilen für Lebensmittel, die noch fehlen.
+Aus diversen Gründen sollten wir möglichst viele verschiedene gesunde Lebensmittel zu uns nehmen. Um einen Überblick zu behalten, was wir diese Woche alles schon zu uns genommen haben, machen wir in der großen Tabelle in der Spalte unsere Woche ein Kreuz hinter allem, was wir gegessen haben. Die Tabelle hat extra einige Leerzeilen für Lebensmittel, die man isst aber nicht auf der Liste findet.
 
-Mehr Infomationen zum Thema Mikrobiom z.B. [hier](https://www.youtube.com/watch?v=lMKxpbpkJUA).
+(Gute Vorträge zum Einsteig in das Thema Mikrobiom und gesunde Ernährung findet man z.B. [hier](https://www.youtube.com/watch?v=lMKxpbpkJUA), [hier](https://invidious.perennialte.ch/watch?v=2tuWKSZZ5qQ) oder [hier](https://www.youtube.com/watch?v=K1KELv3F0Mc).)
 
 ### Schlaf :zzz:
 Einfach z.B. für die Nacht auf Freitag morgens in die Zeile hinter dem Tag die Einschlaf- und die Aufwachzeit notieren sowie die Differenz, also die Schlaflänge. Am Ende der Woche kann dann in der Zeile *Schnitt* die Durchschnittliche Schlafdauer ausgerechnet werden.
